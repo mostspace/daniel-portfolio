@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/daniel-portfolio/static/css/main.b336891a.css",
-    "main.js": "/daniel-portfolio/static/js/main.31921d25.js",
+    "main.css": "/daniel-portfolio/static/css/main.633fc783.css",
+    "main.js": "/daniel-portfolio/static/js/main.4365fc67.js",
     "static/js/787.8bbe5f72.chunk.js": "/daniel-portfolio/static/js/787.8bbe5f72.chunk.js",
     "static/media/pro_10.png": "/daniel-portfolio/static/media/pro_10.3348d0be1a3bf767254d.png",
     "static/media/pro_1_1.jpg": "/daniel-portfolio/static/media/pro_1_1.498423908270cd9282ff.jpg",
@@ -103,12 +103,12 @@
     "static/media/proyecto-app-12.jpg": "/daniel-portfolio/static/media/proyecto-app-12.0d8495ab02ed11fe1640.jpg",
     "static/media/proyecto-app-2.jpg": "/daniel-portfolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/daniel-portfolio/index.html",
-    "main.b336891a.css.map": "/daniel-portfolio/static/css/main.b336891a.css.map",
-    "main.31921d25.js.map": "/daniel-portfolio/static/js/main.31921d25.js.map",
+    "main.633fc783.css.map": "/daniel-portfolio/static/css/main.633fc783.css.map",
+    "main.4365fc67.js.map": "/daniel-portfolio/static/js/main.4365fc67.js.map",
     "787.8bbe5f72.chunk.js.map": "/daniel-portfolio/static/js/787.8bbe5f72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b336891a.css",
-    "static/js/main.31921d25.js"
+    "static/css/main.633fc783.css",
+    "static/js/main.4365fc67.js"
   ]
 }
