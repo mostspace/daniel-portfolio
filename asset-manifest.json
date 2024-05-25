@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/daniel-portfolio/static/css/main.67d31cf5.css",
-    "main.js": "/daniel-portfolio/static/js/main.09af2865.js",
+    "main.js": "/daniel-portfolio/static/js/main.05d065e8.js",
     "static/js/787.8bbe5f72.chunk.js": "/daniel-portfolio/static/js/787.8bbe5f72.chunk.js",
     "static/media/pro_10.png": "/daniel-portfolio/static/media/pro_10.3348d0be1a3bf767254d.png",
     "static/media/project4.png": "/daniel-portfolio/static/media/project4.ad6cd9f8ad4aaf5c2575.png",
@@ -44,7 +44,6 @@
     "static/media/a_1.png": "/daniel-portfolio/static/media/a_1.1a86fa62647c938796c7.png",
     "static/media/d_6.png": "/daniel-portfolio/static/media/d_6.0dd1c03dcb183b96aa30.png",
     "static/media/d_3.png": "/daniel-portfolio/static/media/d_3.846050eebd8687bcee14.png",
-    "static/media/_daniel_h.jpg": "/daniel-portfolio/static/media/_daniel_h.d27784dc19196d23b4d8.jpg",
     "static/media/a_6.png": "/daniel-portfolio/static/media/a_6.5a262e752cef67458fd8.png",
     "static/media/project3.png": "/daniel-portfolio/static/media/project3.17c820a9926c4257a967.png",
     "static/media/a_3.png": "/daniel-portfolio/static/media/a_3.9dd7d70477afd2d0989b.png",
@@ -67,14 +66,15 @@
     "static/media/cv.pdf": "/daniel-portfolio/static/media/cv.e886dfcba1449146b3ad.pdf",
     "static/media/proyecto-app-17-com.png": "/daniel-portfolio/static/media/proyecto-app-17-com.d16b2a970d32200d8558.png",
     "static/media/Gilroy-Medium.woff": "/daniel-portfolio/static/media/Gilroy-Medium.5329bc502cdc219ad294.woff",
+    "static/media/fl-jp.png": "/daniel-portfolio/static/media/fl-jp.aab15feba2c584928d92.png",
     "static/media/daniel_h.jpg": "/daniel-portfolio/static/media/daniel_h.6530ea6df54c6e909496.jpg",
     "index.html": "/daniel-portfolio/index.html",
     "main.67d31cf5.css.map": "/daniel-portfolio/static/css/main.67d31cf5.css.map",
-    "main.09af2865.js.map": "/daniel-portfolio/static/js/main.09af2865.js.map",
+    "main.05d065e8.js.map": "/daniel-portfolio/static/js/main.05d065e8.js.map",
     "787.8bbe5f72.chunk.js.map": "/daniel-portfolio/static/js/787.8bbe5f72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67d31cf5.css",
-    "static/js/main.09af2865.js"
+    "static/js/main.05d065e8.js"
   ]
 }
