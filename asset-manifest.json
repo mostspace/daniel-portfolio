@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/daniel-portfolio/static/css/main.67d31cf5.css",
-    "main.js": "/daniel-portfolio/static/js/main.6a1779e7.js",
+    "main.css": "/daniel-portfolio/static/css/main.926183b3.css",
+    "main.js": "/daniel-portfolio/static/js/main.513f3076.js",
     "static/js/787.8bbe5f72.chunk.js": "/daniel-portfolio/static/js/787.8bbe5f72.chunk.js",
     "static/media/project18.png": "/daniel-portfolio/static/media/project18.fd34156b803dcf95958e.png",
     "static/media/project3.png": "/daniel-portfolio/static/media/project3.17c820a9926c4257a967.png",
@@ -28,7 +28,8 @@
     "static/media/a_8.png": "/daniel-portfolio/static/media/a_8.d81e32adc0ea3e0fcfaf.png",
     "static/media/project6.png": "/daniel-portfolio/static/media/project6.ad00db5131e6306fcd42.png",
     "static/media/d_11.jpg": "/daniel-portfolio/static/media/d_11.fbc1b6ba3eb8bc705fb2.jpg",
-    "static/media/1892778.jpg": "/daniel-portfolio/static/media/1892778.d7a2dac23d9e9b5a0080.jpg",
+    "static/media/1892778.jpg": "/daniel-portfolio/static/media/1892778.5b5390ea7199f8caeace.jpg",
+    "static/media/_1892778.jpg": "/daniel-portfolio/static/media/_1892778.d7a2dac23d9e9b5a0080.jpg",
     "static/media/proyecto-app-18.png": "/daniel-portfolio/static/media/proyecto-app-18.275c2530c3bf1b1c2a44.png",
     "static/media/project19.png": "/daniel-portfolio/static/media/project19.a5d738ddfdab584817a5.png",
     "static/media/project2.png": "/daniel-portfolio/static/media/project2.0dd3fdd9ca086e9515d1.png",
@@ -76,12 +77,12 @@
     "static/media/fl-jp.png": "/daniel-portfolio/static/media/fl-jp.aab15feba2c584928d92.png",
     "static/media/daniel_h.jpg": "/daniel-portfolio/static/media/daniel_h.6530ea6df54c6e909496.jpg",
     "index.html": "/daniel-portfolio/index.html",
-    "main.67d31cf5.css.map": "/daniel-portfolio/static/css/main.67d31cf5.css.map",
-    "main.6a1779e7.js.map": "/daniel-portfolio/static/js/main.6a1779e7.js.map",
+    "main.926183b3.css.map": "/daniel-portfolio/static/css/main.926183b3.css.map",
+    "main.513f3076.js.map": "/daniel-portfolio/static/js/main.513f3076.js.map",
     "787.8bbe5f72.chunk.js.map": "/daniel-portfolio/static/js/787.8bbe5f72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67d31cf5.css",
-    "static/js/main.6a1779e7.js"
+    "static/css/main.926183b3.css",
+    "static/js/main.513f3076.js"
   ]
 }
